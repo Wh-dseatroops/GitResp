@@ -1,5 +1,0 @@
-content 
-第一次使用git base here 成功写入git config --global user.name "daihabing" 和 user.email 
-随后使用初始化 git init  
-使用vi Demo 写入内容随意性大  还可以使用 echo "content" > Demo.txt 这个比较有限  
-
