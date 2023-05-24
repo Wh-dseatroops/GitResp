@@ -13,4 +13,5 @@ package com.dhb;
 
 public class Person {
     private int age;
+    private String name;
 }
